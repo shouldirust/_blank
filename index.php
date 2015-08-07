@@ -21,9 +21,6 @@
 </head>
 <body>
 	<h1>BLANK CANVAS</h1>
-	<h2>Hello World</h2>	
-	
-	<p>New paragraph</p>
-	
+
 </body>
 </html>
