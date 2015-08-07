@@ -1,0 +1,24 @@
+/*
+ * Title: RESET style sheet
+ * Author: Russ Shouldice
+ * Created: November 28, 2014
+ * 
+ * Basic CSS resetting styles
+ * 
+ */
+
+html { font-family: 'Open Sans', 'Helvetica', sans-serif; font-weight: 300;}
+
+body, div, h1, h2, h3, h4, h5, h6, p{
+	margin: 0;
+	padding: 0;
+	font-family: inherit;
+	font-weight: inherit; 
+}
+
+a { text-decoration: none; }
+
+ol, ul { list-style: none; }
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
